@@ -2,12 +2,9 @@
 
 ### Hi there 👋
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=4c5cb9d9-5a47-4fe6-b372-61702cd1a94a)](https://github.com/anuraghazra/github-readme-stats)
-  
-<div> 
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hunt0k4r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![wakatime](https://wakatime.com/badge/user/4c5cb9d9-5a47-4fe6-b372-61702cd1a94a.svg)](https://wakatime.com/@4c5cb9d9-5a47-4fe6-b372-61702cd1a94a)
-</div>
-
 </div>
 
 
