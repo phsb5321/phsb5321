@@ -1,8 +1,8 @@
 <div align="center"> 
 
 ### Hi there 👋
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hunt0k4r)](https://github.com/anuraghazra/github-readme-stats)
-[![wakatime](https://wakatime.com/badge/user/4c5cb9d9-5a47-4fe6-b372-61702cd1a94a.svg)](https://wakatime.com/@4c5cb9d9-5a47-4fe6-b372-61702cd1a94a)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=4c5cb9d9-5a47-4fe6-b372-61702cd1a94a)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com/@4c5cb9d9-5a47-4fe6-b372-61702cd1a94a"><img src="https://wakatime.com/badge/user/4c5cb9d9-5a47-4fe6-b372-61702cd1a94a.svg" alt="Total time coded since Jun 3 2021" /></a>
 </div>
 
 
