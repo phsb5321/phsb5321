@@ -67,5 +67,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Pedro Balbino](https://img.shields.io/badge/-Pedro Balbino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Lhttps://www.linkedin.com/in/balbinopedro/)](Lhttps://www.linkedin.com/in/balbinopedro/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phsb5321@gmail.com)](mailto:phsb5321@gmail.com)
+[![Linkedin: Pedro Balbino](https://img.shields.io/badge/-PedroHSBalbino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Lhttps://www.linkedin.com/in/balbinopedro/)](Lhttps://www.linkedin.com/in/balbinopedro/)
+[![Gmail Badge](https://img.shields.io/badge/-phsb5321@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phsb5321@gmail.com)](mailto:phsb5321@gmail.com)
