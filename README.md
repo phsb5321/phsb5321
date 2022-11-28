@@ -4,7 +4,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Ciência Da Computação** no <a href="#">UFPE</a>.
+- 🎓 &nbsp; Estudando **Ciência Da Computação** na <a href="#">UFPE</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Full Stack Freelancer**
 - 🌱 &nbsp; Aprendendo mais sobre **Rust, JS e Python**.
 
