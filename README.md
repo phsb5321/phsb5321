@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=phsb5321&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> 🙇‍♂️: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Ciência Da Computação** na <a href="#">UFPE</a>.
