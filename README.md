@@ -61,6 +61,7 @@
 
 <a href="https://github.com/phsb5321">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phsb5321&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phsb5321&layout=compact" />
 </a>
 
 <br/>
