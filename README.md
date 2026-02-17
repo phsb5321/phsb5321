@@ -6,7 +6,7 @@
 
 Minimal effort, maximum control. Automate everything or it doesn’t exist.
 
-- 📚 Currently studying **Computer Science** at <a href="#">UFPE</a>.
+- 📚 **Computer Science** at <a href="#">UFPE</a>.
 - 💻 Working as a **Full Stack Developer - Freelancer**.
 - 🚀 Mastering **Rust, TypeScript, Python** — while automating life itself.
 - 🛠️ Building **systems of systems**, not just apps.
