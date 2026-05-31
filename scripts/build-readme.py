@@ -39,7 +39,8 @@ def latest_writing():
         req = urllib.request.Request(BLOG_FEED, headers={"User-Agent": "Mozilla/5.0 (compatible; profile-readme-bot)"})
         xml = urllib.request.urlopen(req, timeout=20).read().decode("utf-8", "ignore")
         items = re.findall(r"<item>.*?<title>(.*?)</title>.*?<link>(.*?)</link>.*?</item>",
-                           xml, re.S)[:4]
+                           xml, re.S)
+        items = [(t, l) for t, l in items if "/posts/" in l][:4]  # real posts only, not pages
         clean = lambda s: re.sub(r"<!\[CDATA\[|\]\]>|<.*?>", "", s).strip()
         out = "\n".join(f"- [{clean(t)}]({l.strip()})" for t, l in items)
         return out or "_no posts found_"
