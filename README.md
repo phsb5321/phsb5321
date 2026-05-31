@@ -1,7 +1,7 @@
 # Pedro H S Balbino — Senior AI & Full-Stack Engineer
 
-> Production AI features — RAG, agents, LLM pipelines — and the backend + infra
-> that ship them. 6+ years across regulated and high-traffic systems.
+> I build audit-grade AI for regulated workloads — RAG and agents that ship
+> signed, reproducible, and survive the audit. 6 OSS tools, every release attested.
 
 ### Shipped (anonymized clients · real numbers)
 - **Multilingual education chatbot, 100K+ DAU** — 4-agent LangGraph + Azure OpenAI RAG; +40% knowledge-base precision. *(global EdTech platform)*
@@ -15,6 +15,21 @@
 - **kokoro-speakd** (Python) — persistent Kokoro TTS daemon, <500 ms warm calls. `pip install kokoro-speakd`.
 - **claude-mac-chrome** (Shell) — deterministic multi-profile Chrome automation; Scorecard 7.9.
 - + `linkedin-chrome-copilot`, `claude-classroom-submit`, `fand`.
+
+### Latest
+*Releases* (auto-updated daily):
+<!-- RELEASES:start -->
+- [`kokoro-speakd` v0.3.0](https://github.com/yolo-labz/kokoro-speakd/releases/tag/v0.3.0) — 2026-05-29
+- [`wa` v2.0.15](https://github.com/yolo-labz/wa/releases/tag/v2.0.15) — 2026-05-19
+- [`fand` v0.3.4](https://github.com/yolo-labz/fand/releases/tag/v0.3.4) — 2026-04-24
+- [`claude-mac-chrome` v1.1.1](https://github.com/yolo-labz/claude-mac-chrome/releases/tag/v1.1.1) — 2026-04-12
+- [`claude-classroom-submit` v0.1.1](https://github.com/yolo-labz/claude-classroom-submit/releases/tag/v0.1.1) — 2026-04-12
+<!-- RELEASES:end -->
+
+*Writing*:
+<!-- WRITING:start -->
+- [Architecture writeups → blog.home301server.com.br](https://blog.home301server.com.br/)
+<!-- WRITING:end -->
 
 ### What I build
 - **AI / LLM** — RAG (pgvector · hybrid + rerank), agents (LangGraph), MCP integrations, eval harnesses
