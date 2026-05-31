@@ -17,7 +17,7 @@
 - + `linkedin-chrome-copilot`, `claude-classroom-submit`, `fand`.
 
 ### Latest
-*Releases* (auto-updated daily):
+*Recent releases*:
 <!-- RELEASES:start -->
 - [`kokoro-speakd` v0.3.0](https://github.com/yolo-labz/kokoro-speakd/releases/tag/v0.3.0) — 2026-05-29
 - [`wa` v2.0.15](https://github.com/yolo-labz/wa/releases/tag/v2.0.15) — 2026-05-19
