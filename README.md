@@ -28,7 +28,7 @@
 
 *Writing*:
 <!-- WRITING:start -->
-- [Architecture writeups → blog.home301server.com.br](https://blog.home301server.com.br/)
+_writing feed unavailable_
 <!-- WRITING:end -->
 
 ### What I build
