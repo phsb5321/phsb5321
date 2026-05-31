@@ -35,7 +35,9 @@ def latest_releases():
 
 def latest_writing():
     try:
-        xml = urllib.request.urlopen(BLOG_FEED, timeout=20).read().decode("utf-8", "ignore")
+        # Cloudflare 403s the default python-urllib UA → send a browser UA.
+        req = urllib.request.Request(BLOG_FEED, headers={"User-Agent": "Mozilla/5.0 (compatible; profile-readme-bot)"})
+        xml = urllib.request.urlopen(req, timeout=20).read().decode("utf-8", "ignore")
         items = re.findall(r"<item>.*?<title>(.*?)</title>.*?<link>(.*?)</link>.*?</item>",
                            xml, re.S)[:4]
         clean = lambda s: re.sub(r"<!\[CDATA\[|\]\]>|<.*?>", "", s).strip()

@@ -28,7 +28,10 @@
 
 *Writing*:
 <!-- WRITING:start -->
-_writing feed unavailable_
+- [Audit-trail-by-design for production LLM agents](https://blog.home301server.com.br/posts/2026-05-23-audit-trail-by-design-production-llm-agents/)
+- [SLSA L2 + Sigstore keyless: a solo-dev supply-chain canon for OSS plugin repos](https://blog.home301server.com.br/posts/2026-05-13-slsa-sigstore-solo-dev-supply-chain/)
+- [Compliance-grade RAG for tier-1 LATAM banking](https://blog.home301server.com.br/posts/2026-04-26-compliance-grade-rag-tier1-banking/)
+- [Privacy](https://blog.home301server.com.br/privacy/)
 <!-- WRITING:end -->
 
 ### What I build
